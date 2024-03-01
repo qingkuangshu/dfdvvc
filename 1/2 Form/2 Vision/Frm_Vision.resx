@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="splitContainer2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="uiContextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>376, 14</value>
+  </metadata>
+  <metadata name="toolStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>137, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="生产toolStripButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADeSURBVDhPYxgF9AGBC/7FAXEilEs+CJj3Lyhgwe/7AQv+
+        /wfj+T9fAMVyoNLEA/9F/3wDZn39CDLEf/7/BqgwA4gNMfzT14C5/2KgwvgBTBOyQeiAGDUogNoudIBF
+        AL4wBKkBqQWx8QL/hf+8wIZANOeDxJBjGSQGlgOqCZz3zxUkRhQA2p4AcR3Qewv+1UAwiP37PkgOqoww
+        CJj/rzRg7q+HQDoDxEcYjDAIJAdWs4DIJAQ3ZO73dwEL/5VChRlAbLAYqa6EAZjBWvVX/oAw2QahA5Ah
+        VDFoFBABGBgAgn/WGf+4vN4AAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="任务toolStripButton2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABuSURBVChTYwAB//n/HQIX/5MEc4AAxMeG4ZIBC/7/B2Eo
+        vwHGR8dgTSCTYQIgDUA6DcZHxyFz/4mC1JAOoM5Ig3LBfGwYJkmaH0AgYMHf/UC8CcL+bwzlY2CwYrIA
+        1ATibCDLD1BFxIUSaYCBAQBXfd9KIUbAfgAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="统计toolStripButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACJSURBVDhPYxg44D//f4Pfwv8uUC4YAMUcoEzcIGDB3/0g
+        zVAu2KCABf//I4thBSCNAQv+1UO5cI1A8f6Ahf/UcNqOrhHEhmrsDJj/dzXUdkzNMI3+C/4c91/wdwlM
+        I5DdAtS4m6BGiC0gDGODaJDckNIYOP9/KFQ5AvjP/1cMUYAbY9VIJ8DAAAAr+NeO7AArqgAAAABJRU5E
+        rkJggg==
+</value>
+  </data>
+  <data name="任务列表toolStripButton3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAA/SURBVChTYyAL+C3+p+U//38DPhyw4H8aVDkDQ8CCv/uB
+        Av8JYahyMmwgGQCdtAndemwYqpwMDSSDIR2sDAwAc0XTZ8icbeQAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="任务编辑toolStripButton4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADvSURBVChTfZC/bgIxDMb7PEx0go2NStWR80nAC/AEnTrC
+        e5TDabtVPAgbCxtIDKhdKiEkEAXu8NUOTvl7/UlRYn+fncR3eUSYNYLe9ivErKOpfMQsu5jBZhm8UuCE
+        WxhLRkwhUktiKQp79ODES8BStfqyWLuuUmTpWaVrIKYKxD9zbwZMxqZL9yqfY96oBHb36c013M0ipLLK
+        5/Abi0E3mRw7b77lNpWvAUwH3vyIq6X8Q6XbgE2Hh87ThKdR03Q+MvPI0hOPs66p/3Fz1uWKefmYn9c0
+        71Q49fA405H/Ayc+wO7Rx3zuc1H7L47T0S+fQbZ0qQ4G9QAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="工具箱toolStripButton5.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADfSURBVDhPzZIxDsIwDEW7cxI4BUgwVUrSDRjYGBgYWWCA
+        e4CwC5dgAMHAzsApmBgRUuvQtE7VFhW6wZOiON/xt6XE+X+UT3UPyOVjHgl6oTA8RnuTpRSJNJUYnE0s
+        ttSIxSIKtTYre8GYGc3ECsKl8HU7ThSJu0O4iybYs8QTsSnQjOVyBARXd/W82UKzS5/GnP5O0i24ZKeo
+        hAKaCNAnieEhNgEacuozCmmUdKW5XFM/iSsYeEgDW8iSMeulBn6JgX2SbKHFGki8PzobqrGcxxhw+Eb0
+        u7oCqcXHn+I4L2D8mFDPHhCfAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="日志toolStripButton8.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAB9SURBVChTnZHRDYAgDESZxymcQPHDfdwEEgdhMqxeBa1Y
+        ++FLLqRwV0pwkjHQApXyVV/4mJOPRLZyKnYEiLBaN1QP8yg+UAPodo53y7xhWLfuMPRS2JMephZToBkd
+        pbAnPczvQDsSHxbUADrKB9f5gRqwaALoqP2uFH7auR2POc/Hmm7BLAAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="工具输出toolStripButton7.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADYSURBVChTpZGxCsIwEIbzPD5FoU5im3PweezoVifBoU2K
+        mw/gKri7uYizu6CTbRKT84yhYAv6wRHu/vuP5MJ+hgsThZEWZgiiPnNpNm2NDDoGqWdhEaQxINUOlrf7
+        R9PxWJqrOxkvdeIEnBCAJqkEpQjIx8X1s4kwUxBmTnWPM/FKjyhFkqI+uX408UotqO6xV8rStR5QinDZ
+        HLwpLdWK6p2AaPbeBKWqqN6JHb71Jlpt1hu2D03u3lA0x9eae8L2td+J2IlR2Ohykr5jV53TH70jJ+kf
+        GHsCDwLTDDUVxYUAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="所有流程运行一次toolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACcSURBVDhPYxgFlAP/+f8bAhb83e+/8F84VIg8ADRkfsCC
+        ///BeP6/VKgw6cBv8T+tgLl/rsAM81vwrxAqhRv4z/9XAPSCF5SdDPIWDCMbBpSrBWvABiBhAVIIDA84
+        GzcGqnGAasUEaC4qgLkGbDCSiwIW/KsBayAFoIdR4Px/eVAp0gDQq+thhoDCDSpMOgB6w40q6WgUUAsw
+        MAAA4AOUmU3GC5QAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="当前流程连续运行toolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADpSURBVDhPxZGxDgFBEIavpvEaCrVWgUpu9wqNhELhEbR0
+        JN5A4naoRHm9FxDxBuJB2Bkze3OSQ6XxJZeb+fef3clM9H96GVWSFDsx4Mg4nFq43xLAWI8/sUATCz6z
+        zu+to6UBv+Y4Y50SR/3gcX4VzAUmxYYYOjusqvTCOGppKJef4y21NQ0C2S2ONQ3IKwbooGmAPXXu5Khp
+        XqhhiW96Sfu9cHZFaUPTF++t8iwGpUIe+9Ckj4umpYEUsFaTIgvYVSmHhZn8ZSjBEFbhnUn9wsDjlBfR
+        JJi/IcuWpfML8+KLN9jU478RRU/TyJOxuGDhswAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="所有流程连续运行toolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADsSURBVDhPxVGxDgFBEL2axm8o1DpRoJLbvUIjoVD4BC0d
+        iT+QuN1TifJ6PyDiD8SHsDNm9+bE4qK8l2x23tv37iYzQfnop1iJYuiGGsZCwUzq+y3SEPLzN6TGqdQm
+        lcrspcKV0GZDdUo6RgoHzqPM2plziBga1tDdQZWlF4TCNpf24+cwwQ5TJ6BMYMK0EOSpUydHplmQy7/w
+        vJ9Bau/AZUBDar1zPzi/gm2DaSFoFkMvSGMfifhxYeoNJAdpNRuSGnosZSBhbm87emdwqzBKxGYp9OOU
+        hXDqzL9gl22XTn9Y5CfcQpOfS0MQPAHvW425JtNkfAAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="画布toolStripButton6.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACLSURBVDhP1ZHBDYAgDAC7mU6gPN3ACYxPR0HejuDDyShC
+        i9TG4B+SPq7tkaaFxt5oQ2/2EDj8Ne64CuNmrD8fTr1ZAzAOO2kkcRYm8Sgce7P2FQeLk3AUY67wV0zF
+        HA4X4UcstR/x3aw+Ia6PyiIzj51y1VFzgRYhIi+qIqpz0OqVGE8jojpHCw/gBkUN/Rf4uT6MAAAAAElF
+        TkSuQmCC
+</value>
+  </data>
+  <data name="演示模式toolStripButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACySURBVChTYyAb+C/4vypgwd/9hDBIHVQLUNP8/w0BC/7/
+        J4RB6qBasGkCmYzMh2C8moB8h4CF/5J8F3x/iyaOXxNIPGTuP1G/+f8PENY07fMXoC32fgv/mfjP+7sO
+        Lo5Pk9+CH6/8F/ztCljw9ROIb7/g3F9cmhyQNcHYEPz9PYwNUgfVAgEgAb95f2eC4gLEhmMgHyyOrgEE
+        wCYhRx4SgET+//9QLgJgNQkJEJInABgYAOqDEgyL70fnAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="软键盘toolStripButton2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABrSURBVChTY6AfCFzwr9B/wf9VxOKAuX8nMQQs+P8/cP7/
+        UGIxSD1YE8hG//n/HZAxLjF0TQ0BC/7uB0mCaIgCBB8kDxFD0kQswGsTDOO1CSRJCKNowhZKuDBEEzDc
+        keOBEAbFK8hGegAGBgB5Au0WHy9m2wAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="上一张toolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABiSURBVChTfZBLCoAwDAV7QttL6VpwK/0s9RK9gFd61EVf
+        gtDG2WUYEoiz8LndIaNynNOj1paIi2pEopAQqUYk8gkH1cgn2qjm6MmClcpGtxbsVDa6OeOkspH49z0C
+        46dPzr2CD0rezeorBQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="停止切换toolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABZSURBVChTYwCBwMX/JAPm/50asOCfG1gACEBskBhIDirE
+        wOA//79DwIL//wMW/N0PFQIq/LsfJAaSgwqNKiSgMGTuP1GgxKaAhf98oEIMIDZIDCTHwMDAAAAtT5et
+        ZDoqFgAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="下一张toolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABPSURBVChTY4CBgAV/9/sv+L8KysUN/Ob9XRmw4P9/ohQH
+        zP87j2jF/vP/TiZFcRtRigMW/m0lqNB/4d8JBBUBg2gOQUVEBw9Q0RncihgYACp6St4Wf4WxAAAAAElF
+        TkSuQmCC
+</value>
+  </data>
+  <data name="全局变量toolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACySURBVDhPYxi8IHD+/1AoEz8IWPA/zX/+/wYY9pv3d6X/
+        gv+rwDRULHDxPxmoclQQsODXU6AB/xH4z3mI+Pf3MDGgAQ5gxegAKKEAkoThgAX/6iGa/tXDxKBKMQHQ
+        SZLICgIW/rME0TCNeDUjOa3Bf8HfvTA+MsZpAMTmf85QLoqNMAyVwgRAyQaQ6X7z/y5D1wTDUKWYAKQR
+        RAMVgQ3BhnEaANH0dz9METYMVTp0AQMDAEQJw18SpViyAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="急速模式toolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADbSURBVChTpVA7DsIwDO0FOANMTBwCib1x2RD3QIKlTByB
+        CTUBMTFyATZWRjYOwWdq62AnblFLhSrxpKfIznt5doK2CDfYgS32lbZDaTUj2uFAGVyAyS5grHUko1x/
+        Q2kcQZLeSrGQE0XiEWmcUvySCevHEwzGPI6ryaBMehWpBwnm9VeL+fn0db5yYgY1oW7wIpdKBox5VN5R
+        LJySn5pMJfX9xTuKvIpfiSKpQhl7gASVO9uYqNkLk+zsRGyUxT/EiUir4Es2jvfYLWom7TJzgjagzzly
+        opT/IgjeqevkRRR6tV0AAAAASUVORK5CYII=
+</value>
+  </data>
+  <metadata name="uiContextMenuStrip2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>554, 14</value>
+  </metadata>
+</root>
