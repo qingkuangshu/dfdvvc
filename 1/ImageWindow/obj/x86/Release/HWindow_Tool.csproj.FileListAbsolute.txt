@@ -1,0 +1,13 @@
+D:\Project\VM\test\VM Pro\VM Pro\ImageWindow\bin\Release\HWindow_Tool.dll.config
+D:\Project\VM\test\VM Pro\VM Pro\ImageWindow\bin\Release\HWindow_Tool.dll
+D:\Project\VM\test\VM Pro\VM Pro\ImageWindow\bin\Release\HWindow_Tool.pdb
+D:\Project\VM\test\VM Pro\VM Pro\ImageWindow\bin\Release\halcondotnet.dll
+D:\Project\VM\test\VM Pro\VM Pro\ImageWindow\obj\x86\Release\HWindow_Tool.csprojAssemblyReference.cache
+D:\Project\VM\test\VM Pro\VM Pro\ImageWindow\obj\x86\Release\ChoiceTech.Halcon.Control.HWindow_Final.resources
+D:\Project\VM\test\VM Pro\VM Pro\ImageWindow\obj\x86\Release\ChoiceTech.Halcon.Control.HWindow_Final2.resources
+D:\Project\VM\test\VM Pro\VM Pro\ImageWindow\obj\x86\Release\ViewROI.Properties.Resources.resources
+D:\Project\VM\test\VM Pro\VM Pro\ImageWindow\obj\x86\Release\HWindow_Tool.csproj.GenerateResource.cache
+D:\Project\VM\test\VM Pro\VM Pro\ImageWindow\obj\x86\Release\HWindow_Tool.csproj.CoreCompileInputs.cache
+D:\Project\VM\test\VM Pro\VM Pro\ImageWindow\obj\x86\Release\HWindow_Tool.csproj.CopyComplete
+D:\Project\VM\test\VM Pro\VM Pro\ImageWindow\obj\x86\Release\HWindow_Tool.dll
+D:\Project\VM\test\VM Pro\VM Pro\ImageWindow\obj\x86\Release\HWindow_Tool.pdb
