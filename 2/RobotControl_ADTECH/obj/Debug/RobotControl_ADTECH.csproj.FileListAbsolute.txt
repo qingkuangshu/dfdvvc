@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl_ADTECH.dll
+C:\Users\DELL\Desktop\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl_ADTECH.pdb
+C:\Users\DELL\Desktop\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl_ADTECH.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl_ADTECH.UserControl1.resources
+C:\Users\DELL\Desktop\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl_ADTECH.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl_ADTECH.dll
+C:\Users\DELL\Desktop\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl_ADTECH.pdb

@@ -1,0 +1,415 @@
+C:\Users\DELL\Desktop\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+C:\Users\DELL\Desktop\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+C:\Users\DELL\Desktop\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.RobotController.resources
+C:\Users\DELL\Desktop\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+C:\Users\DELL\Desktop\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\41 机器人控制类\20210506\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\41 机器人控制类\20210506\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.RobotController.resources
+D:\Projects\41 机器人控制类\20210506\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\41 机器人控制类\20210506\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\41 机器人控制类\20210506\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\41 机器人控制类\20210506\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\41 机器人控制类\20210506\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\41 机器人控制类\20210507\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\41 机器人控制类\20210507\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\41 机器人控制类\20210507\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\41 机器人控制类\20210507\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.RobotController.resources
+D:\Projects\41 机器人控制类\20210507\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\41 机器人控制类\20210507\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\41 机器人控制类\20210507\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\41 机器人控制类\20210507\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\Tool.dll
+D:\Projects\41 机器人控制类\20210507\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\41 机器人控制类\20210524\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\41 机器人控制类\20210524\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\41 机器人控制类\20210524\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\41 机器人控制类\20210524\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\41 机器人控制类\20210524\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.RobotController.resources
+D:\Projects\41 机器人控制类\20210524\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\41 机器人控制类\20210524\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\41 机器人控制类\20210524\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\41 机器人控制类\20210527\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\41 机器人控制类\20210527\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\41 机器人控制类\20210527\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\41 机器人控制类\20210527\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\41 机器人控制类\20210527\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.RobotController.resources
+D:\Projects\41 机器人控制类\20210527\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\41 机器人控制类\20210527\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\41 机器人控制类\20210527\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.3\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.3\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.3\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.3\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.3\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.3\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.3\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.3\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.5\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.5\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.5\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\Tool.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.5\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.5\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.5\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.5\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.5\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.2\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.2\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.2\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.2\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.2\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.2\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.2\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.2\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.4\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.4\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.4\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\Tool.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.4\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.4\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.4\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.4\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.4\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.4\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.5\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.7\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.7\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.7\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\Tool.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.7\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.7\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.7\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.7\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.7\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.7\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\Tool.dll
+D:\Projects\1 VM Pro\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.6\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.6\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.6\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.6\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.6\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.6\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.6\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.6\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.8\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\39 植板机\1 程序\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\39 植板机\1 程序\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\39 植板机\1 程序\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\39 植板机\1 程序\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\39 植板机\1 程序\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\39 植板机\1 程序\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\39 植板机\1 程序\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\39 植板机\1 程序\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+C:\Users\Administrator\Desktop\VM Pro 20210221.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\39 植板机\1 程序\VM Pro 20210714.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\39 植板机\1 程序\VM Pro 20210714.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\39 植板机\1 程序\VM Pro 20210714.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\39 植板机\1 程序\VM Pro 20210714.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\39 植板机\1 程序\VM Pro 20210714.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\39 植板机\1 程序\VM Pro 20210714.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\39 植板机\1 程序\VM Pro 20210714.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\39 植板机\1 程序\VM Pro 20210714.0.2.9\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+C:\Users\Administrator\Desktop\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+C:\Users\Administrator\Desktop\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+C:\Users\Administrator\Desktop\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+C:\Users\Administrator\Desktop\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+C:\Users\Administrator\Desktop\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+C:\Users\Administrator\Desktop\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\39 植板机53从右到左\1 程序\20210729\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\39 植板机53从右到左\1 程序\20210729\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\39 植板机53从右到左\1 程序\20210729\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\39 植板机53从右到左\1 程序\20210729\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\39 植板机53从右到左\1 程序\20210729\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\39 植板机53从右到左\1 程序\20210729\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\39 植板机53从右到左\1 程序\20210729\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\39 植板机53从右到左\1 程序\20210729\VM Pro 20210714.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+C:\Users\Administrator\Desktop\VM Pro 20210804.0.1.0_2\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+C:\Users\Administrator\Desktop\VM Pro 20210804.0.1.0_2\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+C:\Users\Administrator\Desktop\VM Pro 20210804.0.1.0_2\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VM Pro 20210804.0.1.0_2\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+C:\Users\Administrator\Desktop\VM Pro 20210804.0.1.0_2\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+C:\Users\Administrator\Desktop\VM Pro 20210804.0.1.0_2\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VM Pro 20210804.0.1.0_2\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+C:\Users\Administrator\Desktop\VM Pro 20210804.0.1.0_2\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\54 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\54 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\54 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\54 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\54 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\54 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\54 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\54 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210812\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\OMJ\1 程序\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\OMJ\1 程序\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\OMJ\1 程序\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\OMJ\1 程序\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\OMJ\1 程序\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\OMJ\1 程序\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\OMJ\1 程序\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\OMJ\1 程序\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210826\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210826\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210826\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210826\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210826\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210826\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210826\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\55 植板机\1 样机 从右到左\1 程序\20210826\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\OMJ\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\OMJ\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\OMJ\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\OMJ\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\OMJ\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\OMJ\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\OMJ\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\OMJ\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210922\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210922\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210922\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210922\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210922\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210922\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210922\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210922\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210923\VM Pro 20210805.0.1.0_111\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210923\VM Pro 20210805.0.1.0_111\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210923\VM Pro 20210805.0.1.0_111\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210923\VM Pro 20210805.0.1.0_111\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210923\VM Pro 20210805.0.1.0_111\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210923\VM Pro 20210805.0.1.0_111\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210923\VM Pro 20210805.0.1.0_111\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20210923\VM Pro 20210805.0.1.0_111\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211013\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211013\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211013\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211013\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211013\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211013\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211013\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211013\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211023\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211023\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211023\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211023\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211023\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211023\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211023\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211023\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211124\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211124\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211124\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211124\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211124\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211124\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211124\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211124\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211201\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211201\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211201\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211201\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211201\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211201\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211201\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\0001 植板机\2 批量 从右到左\1 程序\20211201\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\1 程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\1 程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\1 程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\1 程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\1 程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\1 程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\1 程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\1 程序\右进左出\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211214\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211214\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211214\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211214\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211214\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211214\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211214\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211214\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211218\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211218\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211218\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211218\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211218\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211218\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211218\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20211218\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220113\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220113\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220113\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220113\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220113\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220113\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220113\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220113\VM Pro 20210805.0.1.0\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220128\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220128\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220128\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220128\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220128\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220128\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220128\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+C:\Users\admin\Desktop\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+C:\Users\admin\Desktop\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+C:\Users\admin\Desktop\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+C:\Users\admin\Desktop\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+C:\Users\admin\Desktop\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+C:\Users\admin\Desktop\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220206\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220206\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220206\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220206\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220206\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220206\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220206\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220206\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220208\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220208\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220208\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220208\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220208\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220208\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220208\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220208\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220210\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220210\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220210\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220210\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220210\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220210\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220210\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\004 BEV246全自动包膜机\1 程序\20220210\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220215\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220215\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220215\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220215\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220215\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220215\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220215\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\001 植板机\2 批量 从右到左\1 程序\20220215\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\001 植板机\4 批量 新程序\20220220\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\001 植板机\4 批量 新程序\20220220\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\001 植板机\4 批量 新程序\20220220\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\001 植板机\4 批量 新程序\20220220\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\001 植板机\4 批量 新程序\20220220\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\001 植板机\4 批量 新程序\20220220\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\001 植板机\4 批量 新程序\20220220\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\001 植板机\4 批量 新程序\20220223\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\001 植板机\4 批量 新程序\20220223\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\001 植板机\4 批量 新程序\20220223\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\001 植板机\4 批量 新程序\20220223\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\001 植板机\4 批量 新程序\20220223\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\001 植板机\4 批量 新程序\20220223\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\001 植板机\4 批量 新程序\20220223\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\001 植板机\4 批量 新程序\20220223\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\001 植板机\4 批量 新程序\20220225\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\001 植板机\4 批量 新程序\20220225\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\001 植板机\4 批量 新程序\20220225\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\001 植板机\4 批量 新程序\20220225\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\001 植板机\4 批量 新程序\20220225\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\001 植板机\4 批量 新程序\20220225\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\001 植板机\4 批量 新程序\20220225\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\001 植板机\4 批量 新程序\20220225\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\001 植板机\4 批量 新程序\20220226\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\001 植板机\4 批量 新程序\20220226\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\001 植板机\4 批量 新程序\20220226\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\001 植板机\4 批量 新程序\20220226\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\001 植板机\4 批量 新程序\20220226\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\001 植板机\4 批量 新程序\20220226\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\001 植板机\4 批量 新程序\20220226\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\001 植板机\4 批量 新程序\20220226\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\001 植板机\4 批量 新程序\20220228\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\001 植板机\4 批量 新程序\20220228\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\001 植板机\4 批量 新程序\20220228\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\001 植板机\4 批量 新程序\20220228\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\001 植板机\4 批量 新程序\20220228\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\001 植板机\4 批量 新程序\20220228\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\001 植板机\4 批量 新程序\20220228\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\001 植板机\4 批量 新程序\20220228\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\001 植板机\4 批量 新程序\20220302\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\001 植板机\4 批量 新程序\20220302\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\001 植板机\4 批量 新程序\20220302\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\001 植板机\4 批量 新程序\20220302\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\001 植板机\4 批量 新程序\20220302\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\001 植板机\4 批量 新程序\20220302\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\001 植板机\4 批量 新程序\20220302\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\001 植板机\4 批量 新程序\20220302\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\Projects\001 植板机\1 批量 新程序\20220411\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\Projects\001 植板机\1 批量 新程序\20220411\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\Projects\001 植板机\1 批量 新程序\20220411\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Projects\001 植板机\1 批量 新程序\20220411\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\Projects\001 植板机\1 批量 新程序\20220411\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\Projects\001 植板机\1 批量 新程序\20220411\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Projects\001 植板机\1 批量 新程序\20220411\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\Projects\001 植板机\1 批量 新程序\20220411\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\1 VM Pro\20220420\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\1 VM Pro\20220420\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\1 VM Pro\20220420\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\1 VM Pro\20220420\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\1 VM Pro\20220420\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\1 VM Pro\20220420\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\1 VM Pro\20220420\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\1 VM Pro\20220420\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\1 VM Pro\20220423\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\1 VM Pro\20220423\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\1 VM Pro\20220423\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\1 VM Pro\20220423\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\1 VM Pro\20220423\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\1 VM Pro\20220423\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\1 VM Pro\20220423\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\1 VM Pro\20220424\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\1 VM Pro\20220424\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\1 VM Pro\20220424\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\1 VM Pro\20220424\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\1 VM Pro\20220424\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\1 VM Pro\20220424\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\1 VM Pro\20220424\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\1 VM Pro\20220424\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
+D:\1 VM Pro\20220425\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.dll
+D:\1 VM Pro\20220425\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\bin\Debug\RobotControl.pdb
+D:\1 VM Pro\20220425\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\1 VM Pro\20220425\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Frm_MorePar.resources
+D:\1 VM Pro\20220425\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.Robot.resources
+D:\1 VM Pro\20220425\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\1 VM Pro\20220425\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.dll
+D:\1 VM Pro\20220425\VM Pro\RobotControl_ADTECH\RobotControl_ADTECH\obj\Debug\RobotControl.pdb
