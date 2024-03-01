@@ -1,0 +1,1027 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5CAB8096-C0E5-4F34-BF78-EBFB1DB50AF9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VM_Pro</RootNamespace>
+    <AssemblyName>VM Pro</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\VM Pro\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>vm.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Controls, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\VM Pro\ControlDll\Controls.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FastColoredTextBox">
+      <HintPath>bin\VM Pro\ControlDll\FastColoredTextBox.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GxIAPINET">
+      <HintPath>bin\VM Pro\Hardware\GxIAPINET.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="halcondotnet">
+      <HintPath>bin\VM Pro\Algo\halcondotnet.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="hdevenginedotnet">
+      <HintPath>bin\VM Pro\Algo\hdevenginedotnet.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="HWindow_Tool">
+      <HintPath>bin\VM Pro\ControlDll\HWindow_Tool.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MvCameraControl.Net">
+      <HintPath>bin\VM Pro\Hardware\MvCameraControl.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Ookii.Dialogs.WinForms">
+      <HintPath>bin\VM Pro\ControlDll\Ookii.Dialogs.WinForms.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnyUI">
+      <HintPath>bin\VM Pro\ControlDll\SunnyUI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnyUI.Common">
+      <HintPath>bin\VM Pro\ControlDll\SunnyUI.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tool">
+      <HintPath>bin\VM Pro\ControlDll\Tool.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="VimbaNET">
+      <HintPath>bin\VM Pro\Hardware\VimbaNET.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="1 Tool\002 检测识别\1 MatchTool\Frm_Par.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\002 检测识别\1 MatchTool\Frm_Par.Designer.cs">
+      <DependentUpon>Frm_Par.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\004 定位引导\1 DownCamAlignTool2\Frm_DownCamAlignTool2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\004 定位引导\1 DownCamAlignTool2\Frm_DownCamAlignTool2.Designer.cs">
+      <DependentUpon>Frm_DownCamAlignTool2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\004 定位引导\1 DownCamAlignTool2\DownCamAlignTool2.cs" />
+    <Compile Include="1 Tool\002 检测识别\5 OCRTool\Frm_OCRTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\002 检测识别\5 OCRTool\Frm_OCRTool.Designer.cs">
+      <DependentUpon>Frm_OCRTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\002 检测识别\3 GlueDetectTool\Frm_GlueDetectTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\002 检测识别\3 GlueDetectTool\Frm_GlueDetectTool.Designer.cs">
+      <DependentUpon>Frm_GlueDetectTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\002 检测识别\3 GlueDetectTool\Frm_GlueRegion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\002 检测识别\3 GlueDetectTool\Frm_GlueRegion.Designer.cs">
+      <DependentUpon>Frm_GlueRegion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\003 坐标转换\1 CoordTransTool\CoordTransTool.cs" />
+    <Compile Include="1 Tool\004 定位引导\2 UpCamAlignTool\Frm_UpCamAlignTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\004 定位引导\2 UpCamAlignTool\Frm_UpCamAlignTool.Designer.cs">
+      <DependentUpon>Frm_UpCamAlignTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\004 定位引导\2 UpCamAlignTool\UpCamAlignTool.cs" />
+    <Compile Include="1 Tool\003 坐标转换\1 CoordTransTool\Frm_CoordTransTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\003 坐标转换\1 CoordTransTool\Frm_CoordTransTool.Designer.cs">
+      <DependentUpon>Frm_CoordTransTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\005 查找拟合\1 FindCircleTool\FindCircleTool.cs" />
+    <Compile Include="1 Tool\006 运算几何\1 LLIntersectTool\LLIntersectTool.cs" />
+    <Compile Include="1 Tool\005 查找拟合\2 FindLineTool\Frm_FindLineTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\005 查找拟合\2 FindLineTool\Frm_FindLineTool.Designer.cs">
+      <DependentUpon>Frm_FindLineTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\005 查找拟合\1 FindCircleTool\Frm_FindCircleTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\005 查找拟合\1 FindCircleTool\Frm_FindCircleTool.Designer.cs">
+      <DependentUpon>Frm_FindCircleTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\005 查找拟合\2 FindLineTool\FindLineTool.cs" />
+    <Compile Include="1 Tool\002 检测识别\3 GlueDetectTool\GlueDetectTool.cs" />
+    <Compile Include="1 Tool\002 检测识别\1 MatchTool\Frm_MatchTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\002 检测识别\1 MatchTool\Frm_MatchTool.Designer.cs">
+      <DependentUpon>Frm_MatchTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\002 检测识别\1 MatchTool\MatchTool.cs" />
+    <Compile Include="1 Tool\010 通讯相关\008 NetwrokSendTool\Frm_NetwrokSendTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\010 通讯相关\008 NetwrokSendTool\Frm_NetwrokSendTool.Designer.cs">
+      <DependentUpon>Frm_NetwrokSendTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\010 通讯相关\008 NetwrokSendTool\NetwrokSendTool.cs" />
+    <Compile Include="1 Tool\001 图像相关\2 SaveImageTool\Frm_SaveImageTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\2 SaveImageTool\Frm_SaveImageTool.Designer.cs">
+      <DependentUpon>Frm_SaveImageTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\2 SaveImageTool\SaveImageTool.cs" />
+    <Compile Include="1 Tool\002 检测识别\4 OutTool\Frm_OutTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\002 检测识别\4 OutTool\Frm_OutTool.Designer.cs">
+      <DependentUpon>Frm_OutTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\002 检测识别\4 OutTool\OutTool.cs" />
+    <Compile Include="1 Tool\009 仪表仪器\015 LightTool\LightTool.cs" />
+    <Compile Include="1 Tool\009 仪表仪器\015 LightTool\Frm_LightTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\009 仪表仪器\015 LightTool\Frm_LightTool.Designer.cs">
+      <DependentUpon>Frm_LightTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\1 ImageTool\Frm_PieceImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\1 ImageTool\Frm_PieceImage.Designer.cs">
+      <DependentUpon>Frm_PieceImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\002 检测识别\2  IDTool\IDTool.cs" />
+    <Compile Include="1 Tool\002 检测识别\2  IDTool\Frm_IDTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\002 检测识别\2  IDTool\Frm_IDTool.Designer.cs">
+      <DependentUpon>Frm_IDTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\1 ImageTool\ImageTool.cs" />
+    <Compile Include="1 Tool\001 图像相关\1 ImageTool\Frm_FromDirectory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\1 ImageTool\Frm_FromDirectory.Designer.cs">
+      <DependentUpon>Frm_FromDirectory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\1 ImageTool\Frm_FromFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\1 ImageTool\Frm_FromFile.Designer.cs">
+      <DependentUpon>Frm_FromFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\1 ImageTool\Frm_FromCamera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\1 ImageTool\Frm_FromCamera.Designer.cs">
+      <DependentUpon>Frm_FromCamera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\1 ImageTool\Frm_ImageTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\1 ImageTool\Frm_ImageTool.Designer.cs">
+      <DependentUpon>Frm_ImageTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\002 检测识别\5 OCRTool\OCRTool.cs" />
+    <Compile Include="1 Tool\001 图像相关\3 PreconditionTool\预处理参数窗体\Frm_Threshold.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\3 PreconditionTool\预处理参数窗体\Frm_Threshold.Designer.cs">
+      <DependentUpon>Frm_Threshold.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_BigTip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_BigTip.Designer.cs">
+      <DependentUpon>Frm_BigTip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_RegestInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_RegestInfo.Designer.cs">
+      <DependentUpon>Frm_RegestInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Exception.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Exception.Designer.cs">
+      <DependentUpon>Frm_Exception.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_ProductCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_ProductCount.Designer.cs">
+      <DependentUpon>Frm_ProductCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="4 Edit\Frm_Infomation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4 Edit\Frm_Infomation.Designer.cs">
+      <DependentUpon>Frm_Infomation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Loading.Designer.cs">
+      <DependentUpon>Frm_Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Result.Designer.cs">
+      <DependentUpon>Frm_Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Msg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Msg.Designer.cs">
+      <DependentUpon>Frm_Msg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\2 Vision\Frm_ConnectSource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\2 Vision\Frm_ConnectSource.Designer.cs">
+      <DependentUpon>Frm_ConnectSource.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\2 Vision\Frm_ToolIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\2 Vision\Frm_ToolIO.Designer.cs">
+      <DependentUpon>Frm_ToolIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\2 Vision\Frm_ToolBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\2 Vision\Frm_ToolBox.Designer.cs">
+      <DependentUpon>Frm_ToolBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\3 Motion\CVacuum.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="2 Form\3 Motion\CVacuum.Designer.cs">
+      <DependentUpon>CVacuum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\3 Motion\Cylinder1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="2 Form\3 Motion\Cylinder1.Designer.cs">
+      <DependentUpon>Cylinder1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\3 Motion\Frm_CylinderInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\3 Motion\Frm_CylinderInfo.Designer.cs">
+      <DependentUpon>Frm_CylinderInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\3 Motion\Frm_Motion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\3 Motion\Frm_Motion.Designer.cs">
+      <DependentUpon>Frm_Motion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\3 Motion\Frm_PosTableEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\3 Motion\Frm_PosTableEdit.Designer.cs">
+      <DependentUpon>Frm_PosTableEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Calibrate\Frm_Template.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Calibrate\Frm_Template.Designer.cs">
+      <DependentUpon>Frm_Template.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Calibrate\Frm_CalibType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Calibrate\Frm_CalibType.Designer.cs">
+      <DependentUpon>Frm_CalibType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Calibrate\Frm_CalibData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Calibrate\Frm_CalibData.Designer.cs">
+      <DependentUpon>Frm_CalibData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Calibrate\Frm_CalibResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Calibrate\Frm_CalibResult.Designer.cs">
+      <DependentUpon>Frm_CalibResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_Calibrate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_Calibrate.Designer.cs">
+      <DependentUpon>Frm_Calibrate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_Card.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_Card.Designer.cs">
+      <DependentUpon>Frm_Card.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_Light.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_Light.Designer.cs">
+      <DependentUpon>Frm_Light.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_MorePar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_MorePar.Designer.cs">
+      <DependentUpon>Frm_MorePar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_Camera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_Camera.Designer.cs">
+      <DependentUpon>Frm_Camera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_Serial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_Serial.Designer.cs">
+      <DependentUpon>Frm_Serial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_TCPClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_TCPClient.Designer.cs">
+      <DependentUpon>Frm_TCPClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_TCPServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_TCPServer.Designer.cs">
+      <DependentUpon>Frm_TCPServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Feedback.Designer.cs">
+      <DependentUpon>Frm_Feedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_User.Designer.cs">
+      <DependentUpon>Frm_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\2 Vision\Frm_Layout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\2 Vision\Frm_Layout.Designer.cs">
+      <DependentUpon>Frm_Layout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 System\Frm_Else.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 System\Frm_Else.Designer.cs">
+      <DependentUpon>Frm_Else.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 System\Frm_Environment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 System\Frm_Environment.Designer.cs">
+      <DependentUpon>Frm_Environment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 System\Frm_Scheme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 System\Frm_Scheme.Designer.cs">
+      <DependentUpon>Frm_Scheme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 System\Frm_Project.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 System\Frm_Project.Designer.cs">
+      <DependentUpon>Frm_Project.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 System\Frm_Service.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 System\Frm_Service.Designer.cs">
+      <DependentUpon>Frm_Service.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\5 System\Frm_System.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 System\Frm_System.Designer.cs">
+      <DependentUpon>Frm_System.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_About.Designer.cs">
+      <DependentUpon>Frm_About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Input.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Input.Designer.cs">
+      <DependentUpon>Frm_Input.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Login.Designer.cs">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Regiest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Regiest.Designer.cs">
+      <DependentUpon>Frm_Regiest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Confirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Confirm.Designer.cs">
+      <DependentUpon>Frm_Confirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Welcome.Designer.cs">
+      <DependentUpon>Frm_Welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\2 Vision\Frm_TaskInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\2 Vision\Frm_TaskInfo.Designer.cs">
+      <DependentUpon>Frm_TaskInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3 Class\1 Service\Calibrate.cs" />
+    <Compile Include="3 Class\1 Service\CCard.cs" />
+    <Compile Include="3 Class\1 Service\LightService.cs" />
+    <Compile Include="3 Class\2 Camera\SDK_AVT.cs" />
+    <Compile Include="3 Class\2 Camera\SDK_Base.cs" />
+    <Compile Include="3 Class\2 Camera\SDK_DaHeng.cs" />
+    <Compile Include="3 Class\2 Camera\SDK_Halcon.cs" />
+    <Compile Include="3 Class\2 Camera\SDK_HIKVision.cs" />
+    <Compile Include="3 Class\1 Service\Serial.cs" />
+    <Compile Include="3 Class\3 Card\CardBase.cs" />
+    <Compile Include="3 Class\3 Card\Card_ADLinkM60.cs" />
+    <Compile Include="3 Class\3 Card\Card_DMC1000B.cs" />
+    <Compile Include="3 Class\3 Card\Card_IOC0640.cs" />
+    <Compile Include="3 Class\3 Card\Using\Dmc1000.cs" />
+    <Compile Include="3 Class\3 Card\Using\ecat_motion.cs" />
+    <Compile Include="3 Class\3 Card\Using\IOC0640.cs" />
+    <Compile Include="3 Class\4 Light\CSTControllerAPI.cs" />
+    <Compile Include="3 Class\4 Light\LightBase.cs" />
+    <Compile Include="3 Class\4 Light\Light_CST.cs" />
+    <Compile Include="3 Class\4 Light\Light_DaHengUV.cs" />
+    <Compile Include="3 Class\4 Light\Light_DaHeng.cs" />
+    <Compile Include="3 Class\5.HalconClass\TuiLi.cs" />
+    <Compile Include="3 Class\BardCodeHooK .cs" />
+    <Compile Include="3 Class\HalconLib.cs" />
+    <Compile Include="3 Class\IniFiles.cs" />
+    <Compile Include="3 Class\Scheme.cs" />
+    <Compile Include="3 Class\ServiceBase.cs" />
+    <Compile Include="3 Class\1 Service\TCPClient.cs" />
+    <Compile Include="3 Class\1 Service\TCPSever.cs" />
+    <Compile Include="3 Class\SmartPosTable.cs" />
+    <Compile Include="3 Class\Task.cs" />
+    <Compile Include="3 Class\Configuration.cs" />
+    <Compile Include="3 Class\Device.cs" />
+    <Compile Include="3 Class\FuncLib.cs" />
+    <Compile Include="3 Class\Permission.cs" />
+    <Compile Include="3 Class\Project.cs" />
+    <Compile Include="3 Class\Regiest.cs" />
+    <Compile Include="3 Class\Struct.cs" />
+    <Compile Include="2 Form\1 Main\Frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Main.Designer.cs">
+      <DependentUpon>Frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\4 IO\Frm_IO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\4 IO\Frm_IO.Designer.cs">
+      <DependentUpon>Frm_IO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\2 Vision\Frm_Vision.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\2 Vision\Frm_Vision.Designer.cs">
+      <DependentUpon>Frm_Vision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\2 Vision\Frm_Task.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\2 Vision\Frm_Task.Designer.cs">
+      <DependentUpon>Frm_Task.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3 Class\1 Service\CCamera.cs" />
+    <Compile Include="3 Class\ThreeColorLamp.cs" />
+    <Compile Include="3 Class\ToolBase.cs" />
+    <Compile Include="4 Edit\VmainCfg.cs" />
+    <Compile Include="4 Edit\Frm_Debug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4 Edit\Frm_Debug.Designer.cs">
+      <DependentUpon>Frm_Debug.cs</DependentUpon>
+    </Compile>
+    <Compile Include="4 Edit\MainTask.cs" />
+    <Compile Include="1 Tool\013 深度学习\011 SegmentInferenceTool\Frm_Inference.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\013 深度学习\011 SegmentInferenceTool\Frm_Inference.Designer.cs">
+      <DependentUpon>Frm_Inference.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\013 深度学习\011 SegmentInferenceTool\InferenceTool.cs" />
+    <Compile Include="1 Tool\014 项目自定义工具\016 DefineTool\DefineTool.cs" />
+    <Compile Include="1 Tool\014 项目自定义工具\016 DefineTool\Frm_DefineTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\014 项目自定义工具\016 DefineTool\Frm_DefineTool.Designer.cs">
+      <DependentUpon>Frm_DefineTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\008 创建组合\017 CreateRoiTool\CreateRoiTool.cs" />
+    <Compile Include="1 Tool\008 创建组合\017 CreateRoiTool\Frm_CreateRoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\008 创建组合\017 CreateRoiTool\Frm_CreateRoi.Designer.cs">
+      <DependentUpon>Frm_CreateRoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\3 PreconditionTool\Frm_PreconditionTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\3 PreconditionTool\Frm_PreconditionTool.Designer.cs">
+      <DependentUpon>Frm_PreconditionTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\3 PreconditionTool\PreconditionTool.cs" />
+    <Compile Include="1 Tool\013 深度学习\019 SegmentTrainModel\Frm_TrainModel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\013 深度学习\019 SegmentTrainModel\Frm_TrainModel.Designer.cs">
+      <DependentUpon>Frm_TrainModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\FrmBianLiang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\FrmBianLiang.Designer.cs">
+      <DependentUpon>FrmBianLiang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\1 Main\Frm_Help.Designer.cs">
+      <DependentUpon>Frm_Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="4 Edit\Frm_ShowDefect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4 Edit\Frm_ShowDefect.Designer.cs">
+      <DependentUpon>Frm_ShowDefect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\3 PreconditionTool\预处理参数窗体\Frm_Emphasize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\3 PreconditionTool\预处理参数窗体\Frm_Emphasize.Designer.cs">
+      <DependentUpon>Frm_Emphasize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3 Class\4 Light\Light_MoRan.cs" />
+    <Compile Include="1 Tool\015 CT\1 南昌CT\Frm_NanChangCTTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\015 CT\1 南昌CT\Frm_NanChangCTTool.Designer.cs">
+      <DependentUpon>Frm_NanChangCTTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\015 CT\1 南昌CT\NanChangCTTool.cs" />
+    <Compile Include="1 Tool\001 图像相关\3 PreconditionTool\预处理参数窗体\FrmResolution.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\3 PreconditionTool\预处理参数窗体\FrmResolution.Designer.cs">
+      <DependentUpon>FrmResolution.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\014 项目自定义工具\017 CapacityCount\CapacityCount.cs" />
+    <Compile Include="2 Form\5 Service\Frm_FTPDownload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2 Form\5 Service\Frm_FTPDownload.Designer.cs">
+      <DependentUpon>Frm_FTPDownload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3 Class\1 Service\FTP\FTPSHelper.cs" />
+    <Compile Include="3 Class\1 Service\FTP\FTPDownload.cs" />
+    <Compile Include="1 Tool\001 图像相关\4 ImageEngineTool\Frm_ImageEngineTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\4 ImageEngineTool\Frm_ImageEngineTool.Designer.cs">
+      <DependentUpon>Frm_ImageEngineTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\4 ImageEngineTool\ImageEngineTool.cs" />
+    <Compile Include="1 Tool\001 图像相关\5 CameraIOOut\FrmCameraIoOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\5 CameraIOOut\FrmCameraIoOut.Designer.cs">
+      <DependentUpon>FrmCameraIoOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1 Tool\001 图像相关\5 CameraIOOut\CameraIOOut.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="3 Class\LeiBieModel.cs" />
+    <Compile Include="1 Tool\013 深度学习\019 SegmentTrainModel\TrainModelTool.cs" />
+    <Compile Include="3 Class\TimeTool.cs" />
+    <EmbeddedResource Include="1 Tool\001 图像相关\4 ImageEngineTool\Frm_ImageEngineTool.resx">
+      <DependentUpon>Frm_ImageEngineTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\002 检测识别\1 MatchTool\Frm_Par.resx">
+      <DependentUpon>Frm_Par.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\004 定位引导\1 DownCamAlignTool2\Frm_DownCamAlignTool2.resx">
+      <DependentUpon>Frm_DownCamAlignTool2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\004 定位引导\2 UpCamAlignTool\Frm_UpCamAlignTool.resx">
+      <DependentUpon>Frm_UpCamAlignTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\002 检测识别\5 OCRTool\Frm_OCRTool.resx">
+      <DependentUpon>Frm_OCRTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\002 检测识别\3 GlueDetectTool\Frm_GlueDetectTool.resx">
+      <DependentUpon>Frm_GlueDetectTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\002 检测识别\3 GlueDetectTool\Frm_GlueRegion.resx">
+      <DependentUpon>Frm_GlueRegion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\003 坐标转换\1 CoordTransTool\Frm_CoordTransTool.resx">
+      <DependentUpon>Frm_CoordTransTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\005 查找拟合\2 FindLineTool\Frm_FindLineTool.resx">
+      <DependentUpon>Frm_FindLineTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\005 查找拟合\1 FindCircleTool\Frm_FindCircleTool.resx">
+      <DependentUpon>Frm_FindCircleTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\002 检测识别\1 MatchTool\Frm_MatchTool.resx">
+      <DependentUpon>Frm_MatchTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\010 通讯相关\008 NetwrokSendTool\Frm_NetwrokSendTool.resx">
+      <DependentUpon>Frm_NetwrokSendTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\001 图像相关\2 SaveImageTool\Frm_SaveImageTool.resx">
+      <DependentUpon>Frm_SaveImageTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\002 检测识别\4 OutTool\Frm_OutTool.resx">
+      <DependentUpon>Frm_OutTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\009 仪表仪器\015 LightTool\Frm_LightTool.resx">
+      <DependentUpon>Frm_LightTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\001 图像相关\1 ImageTool\Frm_PieceImage.resx">
+      <DependentUpon>Frm_PieceImage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\002 检测识别\2  IDTool\Frm_IDTool.resx">
+      <DependentUpon>Frm_IDTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\001 图像相关\1 ImageTool\Frm_FromDirectory.resx">
+      <DependentUpon>Frm_FromDirectory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\001 图像相关\1 ImageTool\Frm_FromFile.resx">
+      <DependentUpon>Frm_FromFile.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\001 图像相关\1 ImageTool\Frm_FromCamera.resx">
+      <DependentUpon>Frm_FromCamera.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\001 图像相关\1 ImageTool\Frm_ImageTool.resx">
+      <DependentUpon>Frm_ImageTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\008 创建组合\017 CreateRoiTool\Frm_CreateRoi.resx">
+      <DependentUpon>Frm_CreateRoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\001 图像相关\3 PreconditionTool\预处理参数窗体\Frm_Threshold.resx">
+      <DependentUpon>Frm_Threshold.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\013 深度学习\019 SegmentTrainModel\Frm_TrainModel.resx">
+      <DependentUpon>Frm_TrainModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\015 CT\1 南昌CT\Frm_NanChangCTTool.resx">
+      <DependentUpon>Frm_NanChangCTTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_BigTip.resx">
+      <DependentUpon>Frm_BigTip.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_RegestInfo.resx">
+      <DependentUpon>Frm_RegestInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_Exception.resx">
+      <DependentUpon>Frm_Exception.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_ProductCount.resx">
+      <DependentUpon>Frm_ProductCount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4 Edit\Frm_Infomation.resx">
+      <DependentUpon>Frm_Infomation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_Loading.resx">
+      <DependentUpon>Frm_Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_Result.resx">
+      <DependentUpon>Frm_Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_Msg.resx">
+      <DependentUpon>Frm_Msg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\2 Vision\Frm_ConnectSource.resx">
+      <DependentUpon>Frm_ConnectSource.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\2 Vision\Frm_ToolIO.resx">
+      <DependentUpon>Frm_ToolIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\2 Vision\Frm_ToolBox.resx">
+      <DependentUpon>Frm_ToolBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\3 Motion\CVacuum.resx">
+      <DependentUpon>CVacuum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\3 Motion\Cylinder1.resx">
+      <DependentUpon>Cylinder1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\3 Motion\Frm_CylinderInfo.resx">
+      <DependentUpon>Frm_CylinderInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\3 Motion\Frm_Motion.resx">
+      <DependentUpon>Frm_Motion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\3 Motion\Frm_PosTableEdit.resx">
+      <DependentUpon>Frm_PosTableEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 Service\Calibrate\Frm_Template.resx">
+      <DependentUpon>Frm_Template.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 Service\Calibrate\Frm_CalibType.resx">
+      <DependentUpon>Frm_CalibType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 Service\Calibrate\Frm_CalibData.resx">
+      <DependentUpon>Frm_CalibData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 Service\Calibrate\Frm_CalibResult.resx">
+      <DependentUpon>Frm_CalibResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 Service\Frm_Calibrate.resx">
+      <DependentUpon>Frm_Calibrate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 Service\Frm_Card.resx">
+      <DependentUpon>Frm_Card.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 Service\Frm_Light.resx">
+      <DependentUpon>Frm_Light.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 Service\Frm_MorePar.resx">
+      <DependentUpon>Frm_MorePar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 Service\Frm_Camera.resx">
+      <DependentUpon>Frm_Camera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 Service\Frm_Serial.resx">
+      <DependentUpon>Frm_Serial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 Service\Frm_TCPClient.resx">
+      <DependentUpon>Frm_TCPClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 Service\Frm_TCPServer.resx">
+      <DependentUpon>Frm_TCPServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_Feedback.resx">
+      <DependentUpon>Frm_Feedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_User.resx">
+      <DependentUpon>Frm_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\2 Vision\Frm_Layout.resx">
+      <DependentUpon>Frm_Layout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 System\Frm_Else.resx">
+      <DependentUpon>Frm_Else.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 System\Frm_Environment.resx">
+      <DependentUpon>Frm_Environment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 System\Frm_Scheme.resx">
+      <DependentUpon>Frm_Scheme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 System\Frm_Project.resx">
+      <DependentUpon>Frm_Project.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 System\Frm_Service.resx">
+      <DependentUpon>Frm_Service.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 System\Frm_System.resx">
+      <DependentUpon>Frm_System.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_About.resx">
+      <DependentUpon>Frm_About.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_Input.resx">
+      <DependentUpon>Frm_Input.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_Login.resx">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_Regiest.resx">
+      <DependentUpon>Frm_Regiest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_Confirm.resx">
+      <DependentUpon>Frm_Confirm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_Main.resx">
+      <DependentUpon>Frm_Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_Welcome.resx">
+      <DependentUpon>Frm_Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\2 Vision\Frm_TaskInfo.resx">
+      <DependentUpon>Frm_TaskInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\4 IO\Frm_IO.resx">
+      <DependentUpon>Frm_IO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\2 Vision\Frm_Vision.resx">
+      <DependentUpon>Frm_Vision.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\2 Vision\Frm_Task.resx">
+      <DependentUpon>Frm_Task.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4 Edit\Frm_Debug.resx">
+      <DependentUpon>Frm_Debug.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\013 深度学习\011 SegmentInferenceTool\Frm_Inference.resx">
+      <DependentUpon>Frm_Inference.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\014 项目自定义工具\016 DefineTool\Frm_DefineTool.resx">
+      <DependentUpon>Frm_DefineTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\001 图像相关\3 PreconditionTool\Frm_PreconditionTool.resx">
+      <DependentUpon>Frm_PreconditionTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\FrmBianLiang.resx">
+      <DependentUpon>FrmBianLiang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\1 Main\Frm_Help.resx">
+      <DependentUpon>Frm_Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4 Edit\Frm_ShowDefect.resx">
+      <DependentUpon>Frm_ShowDefect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\001 图像相关\3 PreconditionTool\预处理参数窗体\Frm_Emphasize.resx">
+      <DependentUpon>Frm_Emphasize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\001 图像相关\3 PreconditionTool\预处理参数窗体\FrmResolution.resx">
+      <DependentUpon>FrmResolution.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2 Form\5 Service\Frm_FTPDownload.resx">
+      <DependentUpon>Frm_FTPDownload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1 Tool\001 图像相关\5 CameraIOOut\FrmCameraIoOut.resx">
+      <DependentUpon>FrmCameraIoOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\DataSources\System.Data.DataSet.datasource" />
+    <None Include="Properties\DataSources\System.Data.DataTable.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="vm.ico" />
+    <None Include="Images\Off.png" />
+    <None Include="Images\On.png" />
+    <None Include="Images\Error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="1 Tool\007 逻辑控制\" />
+    <Folder Include="1 Tool\011 3D检测\" />
+    <Folder Include="1 Tool\012 其他相关\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
